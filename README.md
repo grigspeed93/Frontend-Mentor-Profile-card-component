@@ -3,6 +3,7 @@
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
+<a href="https://grigspeed93.github.io/Frontend-Mentor-Profile-card-component/">See the end product here</a>
 
 Thanks for checking out this front-end coding challenge.
 
